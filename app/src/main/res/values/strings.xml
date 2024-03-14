@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="welcome_to_counter">Welcome to Counter!</string>
+    <string name="click_me">Click Me!</string>
+    <string name="textview">TextView</string>
+    <string name="click_button_to_start">Click button to start!</string>
+    <string name="counting">Counting…</string>
+</resources>
